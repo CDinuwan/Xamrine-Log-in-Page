@@ -1,0 +1,10 @@
+C:\Users\hecdi\Desktop\TextApp\TextApp\TextApp\bin\Debug\netstandard2.0\TextApp.deps.json
+C:\Users\hecdi\Desktop\TextApp\TextApp\TextApp\bin\Debug\netstandard2.0\TextApp.dll
+C:\Users\hecdi\Desktop\TextApp\TextApp\TextApp\obj\Debug\netstandard2.0\TextApp.csprojAssemblyReference.cache
+C:\Users\hecdi\Desktop\TextApp\TextApp\TextApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hecdi\Desktop\TextApp\TextApp\TextApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hecdi\Desktop\TextApp\TextApp\TextApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\hecdi\Desktop\TextApp\TextApp\TextApp\obj\Debug\netstandard2.0\TextApp.AssemblyInfoInputs.cache
+C:\Users\hecdi\Desktop\TextApp\TextApp\TextApp\obj\Debug\netstandard2.0\TextApp.AssemblyInfo.cs
+C:\Users\hecdi\Desktop\TextApp\TextApp\TextApp\obj\Debug\netstandard2.0\TextApp.csproj.CoreCompileInputs.cache
+C:\Users\hecdi\Desktop\TextApp\TextApp\TextApp\obj\Debug\netstandard2.0\XamlC.stamp
